@@ -1,0 +1,10 @@
+# API token - never commit this
+canvas_token.txt
+
+# Exported data - too large for GitHub
+canvas-export/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
